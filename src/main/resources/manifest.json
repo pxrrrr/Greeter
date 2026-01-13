@@ -1,0 +1,15 @@
+{
+  "Group": "pxr",
+  "Name": "Greeter",
+  "Version": "1.0.0",
+  "Description": "Welcomes players with personalized messages and tracks first-time joins",
+  "Authors": [
+    {
+      "Name": "pxr"
+    }
+  ],
+  "Main": "net.pxr.greeter.GreeterPlugin",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {}
+}
