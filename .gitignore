@@ -16,7 +16,6 @@ dependency-reduced-pom.xml
 
 # IDE
 .idea/
-
 *.iml
 *.ipr
 *.iws
